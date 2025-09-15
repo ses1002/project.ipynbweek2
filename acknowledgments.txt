@@ -1,0 +1,1 @@
+I used Chat to help verify that my code was correct. I also referred to the GitHub repositories of Jupyter notebooks for example code. 
